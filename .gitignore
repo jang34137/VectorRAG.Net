@@ -1,0 +1,7 @@
+.venv/
+node_modules/
+*.log
+.env
+build/
+.DS_Store
+*.pyc
